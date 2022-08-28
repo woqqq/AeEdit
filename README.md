@@ -6,3 +6,9 @@ This was the final project of my second year in the IMS. The time limit was only
 At this point I wanted to shoutout <a href="https://www.instagram.com/shadpai/"> Shadpai </a> and <a href="https://www.instagram.com/stryfx/">Stryfx </a> for inspiring me to do this kind of project.
 <br>
 <br>
+
+# Preview of the Edit
+
+
+https://user-images.githubusercontent.com/69577267/187053796-0d67f151-0fa3-463f-a1f7-551879f469a1.mp4
+
